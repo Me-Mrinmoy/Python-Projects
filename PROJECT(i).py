@@ -1,3 +1,6 @@
+'''This is a simple snake, water and hun game 
+in pyton--'''
+
 import random
 # Snake Water Gun or Rock Paper Chessars-- 
 def gameWin(comp, you):
