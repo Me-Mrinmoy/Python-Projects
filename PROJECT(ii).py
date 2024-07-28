@@ -1,3 +1,6 @@
+'''This is a simple random number game project between the computer and user
+in python--'''
+
 import random
 randNumber = random.randint(1,100)
 print(randNumber)
