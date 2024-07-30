@@ -1,3 +1,5 @@
+'''This is my first own AI assistent project in python'''
+
 import speech_recognition as sr
 import pyttsx3
 import os
