@@ -78,12 +78,12 @@ def execute_command(command):
             if video_url:
                 webbrowser.open(video_url)
             else:
-                speak("I couldn't find the video on YouTube.")
+                speak("Sorry I couldn't find the video on YouTube.")
     else:
-        speak("Sorry speak this again....")
+        speak("Sorry speak this again clearly....")
 
 if __name__ == "__main__":
-    speak("Hii Lcifer how can i help you..")
+    speak("Hii Mrinmoy how can i help you..")
     while True:
         command = take_command()
         if command == "none":
