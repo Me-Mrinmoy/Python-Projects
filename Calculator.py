@@ -1,3 +1,7 @@
+'''This is a simple python calculator
+project.Run and show the result--'''
+
+
 def add(x, y):
     return x + y
 
