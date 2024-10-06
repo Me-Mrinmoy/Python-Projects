@@ -1,4 +1,4 @@
-'''This is a simple snake, water and hun game 
+'''This is a simple snake, water and gun game 
 in pyton--'''
 
 import random
