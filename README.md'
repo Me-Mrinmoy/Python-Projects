@@ -4,7 +4,78 @@ Welcome to **Python Projects**, a curated collection of Python-based application
 
 ---
 
-## 📁 Folder Structure
+## Each subfolder contains:
+- 📄 `README.md` — Project overview
+- 🧠 `main.py` — Source code
+- 🔧 `requirements.txt` — Dependencies
+- 📦 Other relevant assets/files
 
-Each project is stored in its own dedicated folder:
+---
+
+## 🚀 Featured Projects
+
+| Project Name        | Description                                       | Link |
+|---------------------|---------------------------------------------------|------|
+| 🎮 Snake Game        | Classic arcade game made with `pygame`           | [View](./SnakeGame) |
+| ☁️ Weather App       | Live weather app using OpenWeatherMap API        | [View](./WeatherApp) |
+| 🤖 Chatbot           | Basic NLP chatbot using `NLTK` and `spaCy`       | [View](./Chatbot) |
+| 🗂️ File Organizer    | Auto-sort files in folders by type               | [View](./FileOrganizer) |
+| 💰 Expense Tracker   | Simple CLI-based expense tracker using SQLite    | [View](./ExpenseTracker) |
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 3.x
+- Pygame
+- Requests / BeautifulSoup
+- SQLite3
+- NLTK / spaCy
+- Flask / Tkinter (for GUI-based projects)
+- More tools as needed...
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome! If you'd like to contribute:
+1. Fork this repo
+2. Create a new branch (`git checkout -b feature/your-feature`)
+3. Commit your changes
+4. Push to the branch
+5. Open a Pull Request
+
+For major changes, please open an issue first.
+
+---
+
+## 💡 Why This Repo?
+
+✅ Hands-on learning  
+✅ Diverse Python use-cases  
+✅ Clean and well-documented code  
+✅ Beginner to intermediate friendly  
+✅ Reusable components for future projects
+
+---
+
+## 📬 Connect with Me
+
+I'm always open to collaboration, feedback, or just a friendly chat.
+
+- 🧑‍💻 GitHub: [Me-Mrinmoy](https://github.com/Me-Mrinmoy)
+- 💼 LinkedIn: [Mrinmoy Samanta](https://www.linkedin.com/in/mrinmoy-samanta/)
+- 🐦 Twitter: [@MrinmoySamanta](https://twitter.com/MrinmoySamanta)
+
+---
+
+## ⭐️ Show Your Support
+
+If you like this repository, please consider giving it a ⭐️.  
+It helps me stay motivated and reach more developers!
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
+
 
