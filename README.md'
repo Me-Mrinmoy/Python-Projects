@@ -1,81 +1,62 @@
-# 🐍 Python Projects Collection
+# 🐍 Python Projects
 
-Welcome to **Python Projects**, a curated collection of Python-based applications, games, scripts, and tools built with love by [Mrinmoy Samanta](https://github.com/Me-Mrinmoy). Whether you're a beginner learning Python or an experienced developer exploring new ideas, this repository is your one-stop destination for real-world Python examples. 💡
+Welcome to **Python Projects by Mrinmoy** — a curated collection of beginner to advanced Python scripts, mini-projects, and real-world applications that showcase my journey, skills, and creativity as a Python developer.
 
----
-
-## Each subfolder contains:
-- 📄 `README.md` — Project overview
-- 🧠 `main.py` — Source code
-- 🔧 `requirements.txt` — Dependencies
-- 📦 Other relevant assets/files
+> 🚀 "Think Like an Engineer" — My core philosophy reflected through code.
 
 ---
 
-## 🚀 Featured Projects
+## 📌 About This Repository
 
-| Project Name        | Description                                       | Link |
-|---------------------|---------------------------------------------------|------|
-| 🎮 Snake Game        | Classic arcade game made with `pygame`           | [View](./SnakeGame) |
-| ☁️ Weather App       | Live weather app using OpenWeatherMap API        | [View](./WeatherApp) |
-| 🤖 Chatbot           | Basic NLP chatbot using `NLTK` and `spaCy`       | [View](./Chatbot) |
-| 🗂️ File Organizer    | Auto-sort files in folders by type               | [View](./FileOrganizer) |
-| 💰 Expense Tracker   | Simple CLI-based expense tracker using SQLite    | [View](./ExpenseTracker) |
+This repository is a comprehensive portfolio of various Python projects, categorized by their complexity, domain, and purpose. Whether it's a classic game, automation script, web scraper, machine learning model, or GUI app, each project is a step forward in my growth as a software developer.
 
 ---
 
-## 🛠️ Technologies Used
+## 📁 Project Categories
 
-- Python 3.x
-- Pygame
-- Requests / BeautifulSoup
-- SQLite3
-- NLTK / spaCy
-- Flask / Tkinter (for GUI-based projects)
-- More tools as needed...
+### 🎮 Games
+- [`Snake Game`](https://github.com/Me-Mrinmoy/Python-Projects/blob/main/Snake.py): A classic terminal-based snake game written using `pygame`.
+- More coming soon...
 
----
+### ⚙️ Automation & Tools
+- `File Organizer`: Automatically sorts files in a directory by type.
+- `YouTube Downloader`: Download videos using `pytube`.
 
-## 🤝 Contributing
+### 🌐 Web Scraping
+- `Amazon Price Tracker`: Tracks product prices and sends email alerts.
 
-Pull requests are welcome! If you'd like to contribute:
-1. Fork this repo
-2. Create a new branch (`git checkout -b feature/your-feature`)
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
+### 🧠 Machine Learning
+- `Iris Classifier`: ML classification model using `scikit-learn`.
+- `Stock Price Predictor`: Predict future prices using regression.
 
-For major changes, please open an issue first.
+### 🖥️ GUI Applications
+- `To-Do List App`: Built with `Tkinter` to manage daily tasks.
+- `Currency Converter`: Real-time currency exchange using APIs.
 
 ---
 
-## 💡 Why This Repo?
+## 🛠️ Tech Stack
 
-✅ Hands-on learning  
-✅ Diverse Python use-cases  
-✅ Clean and well-documented code  
-✅ Beginner to intermediate friendly  
-✅ Reusable components for future projects
+- **Language:** Python 3.x
+- **Libraries:** `pandas`, `numpy`, `tkinter`, `pygame`, `flask`, `requests`, `beautifulsoup4`, `scikit-learn`, `matplotlib`, etc.
+- **Tools:** Git, VSCode, GitHub, Jupyter Notebooks
 
 ---
 
-## 📬 Connect with Me
+## 📈 What I’m Learning & Building
 
-I'm always open to collaboration, feedback, or just a friendly chat.
-
-- 🧑‍💻 GitHub: [Me-Mrinmoy](https://github.com/Me-Mrinmoy)
-- 💼 LinkedIn: [Mrinmoy Samanta](https://www.linkedin.com/in/mrinmoy-samanta/)
-- 🐦 Twitter: [@MrinmoySamanta](https://twitter.com/MrinmoySamanta)
-
----
-
-## ⭐️ Show Your Support
-
-If you like this repository, please consider giving it a ⭐️.  
-It helps me stay motivated and reach more developers!
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+- ✅ Problem solving with Python
+- ✅ Game development with `pygame`
+- ✅ GUI apps with `Tkinter`
+- ✅ Web scraping with `BeautifulSoup`
+- ✅ API integration
+- 🚧 Machine Learning and Deep Learning
+- 🚧 Backend with Flask and Django (coming soon)
 
 ---
 
+## 🧠 How to Use
 
+1. Clone the repo  
+   ```bash
+   git clone https://github.com/Me-Mrinmoy/python-projects.git
