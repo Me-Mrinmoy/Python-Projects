@@ -1,6 +1,6 @@
 import random
 randNumber = random.randint(1,100)
-print(randNumber)
+print(randNumber) 
 userGuess = None
 guesses = 0
 
@@ -24,3 +24,4 @@ if (guesses<myscore):
    with open("myscore.txt", "w") as f:
      f.write(str(guesses))   
      
+
